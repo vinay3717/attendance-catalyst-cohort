@@ -8,4 +8,5 @@ We practiced it on paper and learned about mean,deviation and slope to predict s
 Did the same using python in that using numpy from scratch, we also used Scikit-Learn Library of Linear Regression.
 2. Logistic Regression: We also learned basics of logistic regression.
 Taught about it is classification algorithm.
+Practiced was taken on paper too
 3. Gradient Descent: Definition Gradient Descent
